@@ -14,4 +14,4 @@ Mediente esta visualización se busca proporcionar una comprensión más profund
 ## Fuentes de datos
 El conjunto de datos escogido para crear la visualización contiene un registro de las fatalidades en el conflicto entre Israel y Palestina desde el año 2000 hasta el año 2023 y proviene de Kaggle:
 
-* [Fuente]([https://www.iea.org/data-and-statistics/charts/global-energy-investment-in-clean-energy-and-in-fossil-fuels-2015-2023](https://www.kaggle.com/datasets/willianoliveiragibin/fatalities-in-the-israeli-palestinian/data)https://www.kaggle.com/datasets/willianoliveiragibin/fatalities-in-the-israeli-palestinian/data)
+* [Fuente] (https://www.kaggle.com/datasets/willianoliveiragibin/fatalities-in-the-israeli-palestinian/data)
