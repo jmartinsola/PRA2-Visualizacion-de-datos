@@ -12,6 +12,6 @@ Mediente esta visualización se busca proporcionar una comprensión más profund
 * [Storytelling](https://public.flourish.studio/visualisation/15609805/)
 
 ## Fuentes de datos
-El conjunto de datos escogido para crear la visualización contiene un registro de las fatalidades en el conflicto entre Israel y Palestina desde el año 2000 hasta el año 2023 y proviene de Kaggle:
+El conjunto de datos escogido para crear la visualización proviene de Kaggle y contiene un registro de las fatalidades en el conflicto entre Israel y Palestina desde el año 2000 hasta el año 2023:
 
 * [Fuente](https://www.kaggle.com/datasets/willianoliveiragibin/fatalities-in-the-israeli-palestinian/data)
